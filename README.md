@@ -14,4 +14,4 @@ Created blog REST API that performs CRUD operations on users, blog posts and com
 
 ## Deployment:
 
-[Live Site](https://blogapi-app-v1.herokuapp.com)
+[Live Site](https://blog-api-v1.up.railway.app)
